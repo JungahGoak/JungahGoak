@@ -1,21 +1,7 @@
-### Hi there :-)
-## 안녕하세요 곽정아입니다.
-
-<!--
-**JungahGoak/JungahGoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungahGoak&show_icons=true&theme=radical)
-[[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakjungah)](https://solved.ac/kwakjungah/)]
-![Solved ](https://mazandi.herokuapp.com/api?handle=kwakjungah&theme=warm)
+<p align="center">
+🐨 곽정아입니다 🐨
+</p>
+<p align="center"> 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakjungah"/></a>
+  <img src="https://mazandi.herokuapp.com/api?handle=kwakjungah&theme=warm"/></a>
+</p>
