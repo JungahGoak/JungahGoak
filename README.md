@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungahGoak&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakjungah)](https://solved.ac/kwakjungah/)
+[[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakjungah)](https://solved.ac/kwakjungah/)]
+![Solved ](https://mazandi.herokuapp.com/api?handle=kwakjungah&theme=warm)
