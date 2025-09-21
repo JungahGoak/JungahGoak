@@ -3,7 +3,9 @@
 </h3>
 
 ---
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/JungahGoak"/>
+</a>
 
 #### 🛠️ Languages & Frameworks
 <div>
