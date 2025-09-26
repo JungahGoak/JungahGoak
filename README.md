@@ -4,7 +4,7 @@
 
 ---
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/JungahGoak?pet-id=1" width="1000" height="150"/>
+  <img src="https://render.gitanimals.org/lines/JungahGoak?pet-id=759110131231618372" width="1000" height="150"/>
 </a>
 
 #### 🛠️ Languages & Frameworks
